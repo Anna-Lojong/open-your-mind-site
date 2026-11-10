@@ -3,3 +3,10 @@
 @media(max-width:600px){.wrap{width:calc(100% - 40px)}.site-header{padding-block:22px;align-items:flex-start;gap:12px}.wordmark{font-size:.65rem;letter-spacing:.1em}nav{gap:16px;font-size:.8rem;flex-wrap:wrap}.hero{padding-top:48px}.hero h1{font-size:3.35rem}.hero .eyebrow{font-size:.65rem}.hero-copy{font-size:.95rem}.wide-only{display:none}.landscape{margin-top:32px}.landscape img{width:118%;max-width:none;margin-left:-9%}.about{display:block;padding-block:56px}.section-intro{margin-bottom:32px}.section-intro h2 br{display:none}.details section+section{margin-top:28px}.availability{gap:18px;padding-block:32px}.availability img{width:44px;height:44px}.availability h2{font-size:1.65rem}.contact{padding-block:56px}.policy{padding-top:32px}.policy h2{font-size:1.5rem}.site-footer{font-size:.75rem}.policy p{font-size:1rem}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 @media(max-width:600px){.site-header{flex-wrap:wrap}nav{margin-left:auto;max-width:100%}.availability>div{min-width:0}}
+
+/* Keep the landscape atmospheric without turning it into a full extra screen. */
+.hero{padding-top:40px}.intro{margin-top:20px}.hero-copy{margin-top:18px}.text-link{margin-top:14px}
+.landscape{height:clamp(150px,23vw,300px);margin-top:12px}.landscape img{height:100%;object-fit:cover;object-position:center 30%}
+.about{padding-block:48px;gap:clamp(32px,6vw,80px)}.details section+section{margin-top:26px}
+.availability{padding-block:32px}.contact{padding-block:48px 56px}
+@media(max-width:600px){.hero{padding-top:28px}.landscape{height:160px;margin-top:16px}.landscape img{width:100%;margin-left:0}.about{padding-block:36px}.section-intro{margin-bottom:24px}.contact{padding-block:36px 40px}.availability{padding-block:28px}}
