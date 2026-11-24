@@ -1,14 +1,14 @@
 # Privacy Policy
 
 Open Your Mind  
-Last reviewed: 10 November 2026  
+Last reviewed: 24 November 2026  
 Contact: [openyourmind.support@gmail.com](mailto:openyourmind.support@gmail.com)
 
-This policy describes the current Open Your Mind Android app and its informational website. Open Your Mind is an independently created mind-training and reflection app published Independent mind training, intended for adults aged 18 and over. It is not directed at children. You do not need an account to use the app.
+This policy describes the current Open Your Mind Android app and its informational website. Open Your Mind is an independently created mind-training and reflection app published by Open Your Mind. It is not specifically directed at children. You do not need an account to use the app.
 
 ## Information stored on your device
 
-The app stores your journal reflections, their dates and identifiers, and their associated teaching and, where applicable, encounter identifiers. It also stores saved teachings, wording and reminder preferences, practice rhythm, manual teaching selections and encounter history. This information supports the journal, bookmarks, settings and guided practice.
+The app stores your journal reflections, their dates and identifiers, and their associated teaching and, where applicable, encounter identifiers. It also stores saved teachings, reading-path and reminder preferences, practice rhythm, manual teaching selections and encounter history. This information supports the journal, bookmarks, settings and guided practice.
 
 On Android, the journal is saved in app-private local files and mirrored in the app's WebView local storage. Temporary files support reliable saves. Other settings and progress are held in local storage. Browser previews use that browser's storage, separately from the installed Android app. These are not encrypted journal files; their protection depends on your device's operating-system protections and access controls.
 
@@ -16,7 +16,7 @@ The app has no journal backend and does not automatically transmit your reflecti
 
 ## Reminders and Android permissions
 
-Morning and evening reminders are independent, optional and disabled by default. Notification permission is requested when you enable reminders. The selected local times and schedules are used on your device by Android's local notification service. Notifications can contain the current teaching in your preferred wording or a generic practice or reflection message, never journal text. A local snapshot of available teaching text and practice preferences lets Android choose the current teaching while the app is closed. The app also remembers the last teaching notification day locally to avoid repeating a weekly teaching every day. Notification text may appear on your lock screen according to your Android privacy settings. Delivery may be delayed by Android or battery settings. You can change or disable reminders in the app's Settings and control notification permission in Android settings.
+Morning and evening reminders are independent, optional and disabled by default. Notification permission is requested when you enable reminders. The selected local times and schedules are used on your device by Android's local notification service. Notifications can contain the current teaching using the selected reading path’s wording, or a generic practice message. Evening reminders invite you to reflect on your day. Notifications never contain journal text. A local snapshot of available teaching text and practice preferences lets Android choose the current teaching while the app is closed. The app also remembers the last teaching notification day locally to avoid repeating a weekly teaching every day. Notification text may appear on your lock screen according to your Android privacy settings. Delivery may be delayed by Android or battery settings. You can change or disable reminders in the app's Settings and control notification permission in Android settings.
 
 The app includes notification, restart-restoration and wake-lock permissions to support local reminders. It does not request special exact-alarm access. Internet permission is present for the Capacitor Android environment; the reviewed app has no remote journal service or automatic app-data upload. The app does not request access to location, contacts, camera, microphone or broad shared storage/media. Import/export uses files or destinations you choose.
 
@@ -52,10 +52,10 @@ If you email Open Your Mind, your email address, message and any information you
 
 The supplied static website has no contact form, advertising, analytics scripts, embedded payment widgets, cookies or browser-storage code of its own. Following the email link opens your email application; no message is sent until you choose to send it.
 
-Serving a website necessarily exposes connection information such as your IP address and requested pages to its hosting provider. The public preview is hosted through OpenAI Sites and its hosting infrastructure; platform processing is governed by the [OpenAI privacy policy](https://openai.com/policies/privacy-policy/). If the site is deployed to GitHub Pages, GitHub logs visitors' IP addresses for security; see [GitHub's privacy statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement). Host service/security logs are separate from the app's local journal and follow the host's retention and privacy practices. Open Your Mind has not added website analytics or a journal-upload service.
+Serving a website necessarily exposes connection information such as your IP address and requested pages to its hosting provider. This website is hosted on GitHub Pages. GitHub logs visitors' IP addresses for security; see [GitHub's privacy statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement). Host service/security logs are separate from the app's local journal and follow the host's retention and privacy practices. Open Your Mind has not added website analytics or a journal-upload service.
 
 ## Questions and changes
 
-Contact OpenYourMind at [openyourmind.support@gmail.com](mailto:openyourmind.support@gmail.com) with privacy or support questions. The app is intended for adults aged 18 and over and does not include an age-verification system. If you believe a child has sent personal information directly to Open Your Mind, contact this address.
+Contact OpenYourMind at [openyourmind.support@gmail.com](mailto:openyourmind.support@gmail.com) with privacy or support questions. The app does not include an age-verification system. The Google Play target-audience declaration and content rating are separate from this policy. If you believe a child has sent personal information directly to Open Your Mind, contact this address.
 
 This policy will be updated when the app's data handling or hosting arrangements change. The review date above identifies this version. Review the current policy before sharing a backup, sending an email or following an external support link.
